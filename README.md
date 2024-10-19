@@ -7,3 +7,6 @@
   "url": "https://github.com/shaquibimdad/gnome_ext_volume_boost"
 }
 ```
+
+
+fork of https://github.com/shaquibimdad/gnome_ext_volume_boost
